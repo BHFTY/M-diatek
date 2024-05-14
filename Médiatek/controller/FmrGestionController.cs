@@ -1,8 +1,8 @@
-﻿using atelier2.dal;
-using atelier2.model;
+﻿using Médiatek.dal;
+using Médiatek.model;
 using System.Collections.Generic;
 
-namespace atelier2.controller
+namespace Médiatek.controller
 {
     /// <summary>
     /// Contôleur de FmrGestion

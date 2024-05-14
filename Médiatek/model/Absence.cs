@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace atelier2.model
+namespace Médiatek.model
 {
     /// <summary>
     /// Classe métier liée à la table Absence

@@ -1,7 +1,6 @@
-﻿using atelier2.dal;
-using atelier2.view;
+﻿using Médiatek.dal;
 
-namespace atelier2.controller
+namespace Médiatek.controller
 {
     /// <summary>
     /// Contrôleur de FmrAuth

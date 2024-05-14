@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace atelier2.bddmanager
+namespace Médiatek.bddmanager
 { 
     /// <summary>
     /// Singleton : connexion à la base de données et exécution des requêtes

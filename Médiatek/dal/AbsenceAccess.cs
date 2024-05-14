@@ -1,9 +1,9 @@
-﻿using atelier2.model;
+﻿using Médiatek.model;
 using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace atelier2.dal
+namespace Médiatek.dal
 {
     /// <summary>
     /// Classe permettant de gérer les demandes concernant les absences

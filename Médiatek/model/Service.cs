@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace atelier2.model
+namespace Médiatek.model
 {
     /// <summary>
     /// Classe métier liée à la table Service

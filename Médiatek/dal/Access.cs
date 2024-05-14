@@ -1,8 +1,8 @@
-﻿using atelier2.bddmanager;
+﻿using Médiatek.bddmanager;
 using System;
 using System.Windows.Forms;
 
-namespace atelier2.dal
+namespace Médiatek.dal
 {
     /// <summary>
     /// Singleton : classe d'accès à BddManager
