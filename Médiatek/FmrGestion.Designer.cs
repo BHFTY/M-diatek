@@ -1,7 +1,7 @@
 ﻿
 namespace Médiatek
 {
-    partial class Form2
+    partial class FmrGestion
     {
         /// <summary>
         /// Required designer variable.

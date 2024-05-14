@@ -1,7 +1,7 @@
 ﻿
 namespace Médiatek
 {
-    partial class Form1
+    partial class FmrAuth
     {
         /// <summary>
         /// Variable nécessaire au concepteur.

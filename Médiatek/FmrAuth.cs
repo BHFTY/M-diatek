@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Médiatek
 {
-    public partial class Form1 : Form
+    public partial class FmrAuth : Form
     {
-        public Form1()
+        public FmrAuth()
         {
             InitializeComponent();
         }
