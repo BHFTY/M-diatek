@@ -67,6 +67,8 @@ namespace Médiatek
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(123, 20);
             this.textBox2.TabIndex = 3;
+            this.textBox2.UseSystemPasswordChar = true;
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // button1
             // 
@@ -77,7 +79,7 @@ namespace Médiatek
             this.button1.Text = "Connection";
             this.button1.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // FmrAuth
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -87,7 +89,7 @@ namespace Médiatek
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "FmrAuth";
             this.Text = "Authentification";
             this.ResumeLayout(false);
             this.PerformLayout();
